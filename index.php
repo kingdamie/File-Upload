@@ -27,7 +27,7 @@
             } else {
                  echo "Error uploading $original_name.<br>";
             }
-            // if the code is not working check my readme file
+            // if the code is not working check my README file
         }
     }
     ?>
